@@ -1,4 +1,6 @@
 from faker import Faker
+from time import sleep 
+import pygame 
 from db import conectar
 import random
 from datetime import datetime
